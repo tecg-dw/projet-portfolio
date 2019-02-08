@@ -113,7 +113,7 @@ Afin de fixer quelques modalités à ce projet, il vous est demandé de respecte
 3. Votre portfolio devra être accessible via un nom de domaine de type `prenom-nom.extension`.
 4. Le site doit être développé avec Wordpress
 5. Le site doit être utilisable et accessible lorsque Javascript est désactivé
-6. Votre site doit être *consultable* à partir d'Internet Explorer 8 (malgré que le support d'IE8 n'est plus garanti, il reste toujours des institutions entières qui tournent dessus), mais bien entendu aussi sur tous les autres navigateurs récents.
+6. Votre site doit fonctionner sur Internet Explorer 10, mais bien entendu aussi sur tous les autres navigateurs récents.
 7. En plus des considérations techniques, on portera un oeil attentif à:
       - l'*user experience*,
       - l'*accessibilité* et l'*utilisabilité*,
